@@ -5,6 +5,8 @@ published: true
 
 This learning circle co-organized with [P2PU](https://www.p2pu.org/en/) and [BosLab](https://www.boslab.org/) will use the free [R for Data Science](https://r4ds.had.co.nz/) book by Hadley Wickham and Garrett Grolemund  and the community-contributed [R for Data Science Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/index.html) book by Jeffrey Arnold. We will cover chapters 1-5 and learn basic approaches to visualize and transform data.
 
+<br>
+
 #### Sign-up
 
 To join this learning circle, sign-up on the P2PU website is mandatory. The sign-up link is [here](https://learningcircles.p2pu.org/en/signup/online-1544/). Each meeting will build on the previous ones, so participants are asked to attend every meeting or work on their own the sections they may miss.
