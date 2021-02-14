@@ -3,32 +3,29 @@ layout: index
 published: true
 ---
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+This learning circle co-organized with [P2PU](https://www.p2pu.org/en/) and [BosLab](https://www.boslab.org/) will use the free [R for Data Science](https://r4ds.had.co.nz/) book by Hadley Wickham and Garrett Grolemund  and the community-contributed [R for Data Science Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/index.html) book by Jeffrey Arnold. We will cover chapters 1-5 and learn basic approaches to visualize and transform data.
 
-<br> 
+**Sign-up:**
+To join this learning circle, sign-up on the P2PU website is mandatory. The sign-up link is [here](https://learningcircles.p2pu.org/en/signup/online-1544/). Each meeting will build on the previous ones, so participants are asked to attend every meeting or work on their own the sections they may miss.
 
-#### Course-in-a-Box Courses We Love ❤️
-Here are some examples of Course-in-a-Box in the wild:
+**When:**
+This learning circle meets every Wednesday from 7 pm to 9 pm EST starting March 3, 2021, for 6 weeks.
 
-* [Making and Learning](http://p2pu.github.io/makingandlearning/) by Children’s Museum of Pittsburgh
-* [Designing for Documentation and Assessment](https://playfulmit.github.io/beyond-rubrics/) by MIT Playful Journey Lab
-* [ExplOERer Course](http://www.exploerercourse.org/en/) by Gothenburg University, Open University, and CC Poland
-* [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/)  by P2PU
+**Where:**
+We will meet on Zoom. The link will be sent by email after you sign up on the P2PU website.
 
-<br> 
+**Prerequisite:**
+Prior experience in programming or data science is not required. However, you should have R and RStudio installed on your computer before the first meeting. Instructions to install R and RStudio can be found [here](https://datacarpentry.org/R-ecology-lesson/#install-r-and-rstudio). If you have difficulties installing R and RStudio, please email me at sebastien.vigneau[AT]gmail.com.
 
-#### Need some help?
-Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
+**What we will do:**
+The first hour of each meeting will consist of an interactive lecture with live coding and exercise breaks. The second hour will consist of facilitated small-group work on the exercises from the book. Experienced R programmers or data scientists are welcome to join any of these segments to help out more novice participants.
 
-You can also hire P2PU to provide support with learning design, technical setup, course customizations, or web hosting. If you’re interested in collaborating on a project, reach out to us at thepeople@p2pu.org
+**Course material we will use:**
+[R for Data Science](https://r4ds.had.co.nz/) teaches how to do data science with R. Chapters cover how to import, tidy, transform, visualize, model, and communicate data. The general philosophy is to teach the most useful skills first, using an abundance of examples and exercises. Solutions to the exercises can be found in a community-contributed [solution book](https://jrnold.github.io/r4ds-exercise-solutions/) by Jeffrey Arnold.
 
-<br> 
-
-#### About Course-in-a-Box
-
-P2PU created Course-in-a-Box in 2014 as a free and lightweight tool for building online courses. We wanted to preserve the modular structure of MOOCs outside of the bulky (and often proprietary) environment of learning/content management systems. Course-in-a-Box is open-source, and we welcome contributions [on our Github repo](https://github.com/p2pu/course-in-a-box).
-
-p.s. Designing a course for learning circles? [Check out the Learning Circle Course Creation guide](https://docs.google.com/document/u/1/d/116fJM3GS7XDzilUOL_ynMZ0yTncUD6aVUbcQKsTra6U/edit#heading=h.l36tzg40xcgr) for some best practices on course design.
+**Links:**
+[Sign-up form](https://learningcircles.p2pu.org/en/signup/online-1544/)
+[P2PU website](https://www.p2pu.org/en/)
+[R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
+[R for Data Science Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/index.html) by Jeffrey Arnold and Contributors
+[Install R and RStudio](https://datacarpentry.org/R-ecology-lesson/#install-r-and-rstudio) by Data Carpentry
