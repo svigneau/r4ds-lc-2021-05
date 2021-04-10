@@ -50,4 +50,4 @@ The first hour of each meeting will consist of an interactive lecture with live 
 * [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
 * [R for Data Science Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/index.html) by Jeffrey Arnold and Contributors
 * [Install R and RStudio](https://datacarpentry.org/R-ecology-lesson/#install-r-and-rstudio) by Data Carpentry
-* [Etherpad](https://etherpad.p2pu.org/p/r4ds-lc-2021-03)
+* [Etherpad](https://etherpad.p2pu.org/p/r4ds-lc-2021-05)
