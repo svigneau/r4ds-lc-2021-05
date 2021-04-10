@@ -9,7 +9,7 @@ This learning circle co-organized with [P2PU](https://www.p2pu.org/en/) and [Bos
 
 #### Prerequisite
 
-To join this learning circle, you should have participated in the first R4DS learning circle or be comfortable with the material in chapters 1-5, up to section 5.5, of the [R for Data Science](https://r4ds.had.co.nz/) book. If you need help learning or revising these chapters, please email me at sebastien.vigneau[AT]gmail.com.
+To join this learning circle, you should have participated in the [first R for Data Science learning circle](https://svigneau.github.io/r4ds-lc-2021-03/) or be comfortable with the material in chapters 1-5, up to section 5.5, of the [R for Data Science](https://r4ds.had.co.nz/) book. If you need help learning or revising these chapters, please email me at sebastien.vigneau[AT]gmail.com.
 
 <br>
 
