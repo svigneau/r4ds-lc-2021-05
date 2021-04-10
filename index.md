@@ -39,7 +39,7 @@ We will meet on Zoom. The link will be sent by email after you sign up on the P2
 
 #### Links
 
-* [Sign-up form](https://learningcircles.p2pu.org/en/signup/online-1544/)
+* [Sign-up form](https://learningcircles.p2pu.org/en/signup/online-1645/)
 * [P2PU website](https://www.p2pu.org/en/)
 * [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
 * [R for Data Science Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/index.html) by Jeffrey Arnold and Contributors
